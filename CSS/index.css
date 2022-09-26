@@ -10,6 +10,7 @@ padding: 0;
 --Light-grayish-blue: hsl(210, 46%, 95%);
 }
 body{
+position: relative;
 background-color:var(--Light-grayish-blue);
 font-family:"Barlow Semi Condensed" ;
 }
@@ -178,6 +179,10 @@ grid-area: pat;
       width: 100%;
       margin-bottom: 20px;
     }
+    footer{
+    position: absolute;
+    bottom: 0;
+    }
     }
     @media (min-width:1440px){
       .container{
@@ -195,5 +200,8 @@ grid-area: pat;
         height: 800px;
         width: max-content;
       }
-      
+      footer{
+      margin-top: 150px;
+        }
     }
+
