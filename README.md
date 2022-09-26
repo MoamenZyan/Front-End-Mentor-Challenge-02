@@ -1,2 +1,5 @@
-# Front-End-Mentor-Challenge-02
-testimonials-grid-section-main https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub/testimonials-grid-section-cTbswbbYA1
+# Frontend Mentor - Testimonials grid section solution
+
+![design Preview](images/Screenshot%202022-09-26%20at%2023-51-52%20Frontend%20Mentor%20Challenge%20Name%20Here.png)
+
+what a lovely challenge &hearts;
